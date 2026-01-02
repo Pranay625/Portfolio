@@ -121,7 +121,7 @@ export default function About() {
             </div>
 
             <motion.a
-              href="https://drive.google.com/file/d/1qut9GedveJfKaplT4Z4jhAu7B1_U87BY/view?usp=sharing"
+              href="https://drive.google.com/file/d/1xhghUQ-eZfG65f2usUcyK81LJp5Qjcx-/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, y: 20 }}
